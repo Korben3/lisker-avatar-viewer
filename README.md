@@ -4,7 +4,8 @@ Lisker avatar viewer is a simple react component and a lightweight version of th
 
 To use it in your project, copy the [LiskerViewer](https://github.com/Korben3/lisker-avatar-viewer/tree/main/src) folder in your project. Then import LiskerViewer and add the LiskerViewer component. For example:
 
-```import LiskerViewer from "./LiskerViewer";
+```
+import LiskerViewer from "./LiskerViewer";
 
 const App = () => {
   return (
